@@ -33,8 +33,10 @@ public class FipsValidator extends HttpServlet {
 
         List<String> providers = getSecurityProviders();
         try (PrintWriter out = response.getWriter()) {
-            out.print("<html><body>");
-            out.print("<h3>FIPS checker</h3>");
+            out.println("<html>");
+            out.println("<head><title>FIPS Checker</title></head");
+            out.println("<body>");
+            out.print("<h1>FIPS Checker</h1>");
             out.print(generateProviderReport(providers));
 
             if (isJsafeJceInstalled(providers) && isRsaJsseInstalled(providers)) {
