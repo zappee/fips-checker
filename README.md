@@ -11,3 +11,7 @@ The web application can be installed to Admin and/or Managed Servers of the appl
 
 ## 2) Licence
 BSD (2-clause) licensed.
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kv44hsm32o2ays405s9k" alt="trackgit-views" />
+</a>
