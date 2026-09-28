@@ -53,4 +53,5 @@ Once deployed and running, the utility exposes a web interface to report the ser
 
 ### 🤝 Contributing
 
-Contributions, feature requests, and bug reports are always welcome! For more information, please visit my [homepage](https://zappee.github.io).
+Contributions, feature requests, optimization, and bug reports are always welcome!
+For more information, please visit my [homepage](https://zappee.github.io).
