@@ -51,6 +51,6 @@ Once deployed and running, the utility exposes a web interface to report the ser
 3. Interpret results: The web page will output a direct confirmation message indicating whether FIPS mode is enabled or disabled.
 
 
-### 5) Contributing
+### 🤝 Contributing
 
-Contributions, feature requests, and custom dictionary pattern submissions are always welcome!
+Contributions, feature requests, and bug reports are always welcome! For more information, please visit my [homepage](https://zappee.github.io).
