@@ -4,6 +4,10 @@
 ![GitHub Issues](https://img.shields.io/github/issues/zappee/fips-checker)
 ![GitHub Release](https://img.shields.io/github/v/release/zappee/fips-checker)
 
+#### ⭐⭐ Like this project? Support my work by giving it a star on [GitHub](https://github.com/zappee/fips-checker/) ⭐⭐
+
+![GitHub Repo stars](https://img.shields.io/github/stars/zappee/fips-checker?style=flat)
+
 ### 1) Overview
 
 The _FIPS-Checker_ repository is a specialized Java-based web utility designed to verify if Federal Information Processing Standards (FIPS) mode is actively running on an application server.
