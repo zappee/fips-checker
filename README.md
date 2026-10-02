@@ -34,8 +34,8 @@ As a standard Maven-based Java web application, the general deployment lifecycle
 
 2. Use Maven to package the application. This compiles the Java classes and generates a deployable .war file:
 
-   ```
-   mvn clean package
+   ```console
+   $ mvn clean package
    ```
 
 
