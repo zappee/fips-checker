@@ -15,7 +15,7 @@ The _FIPS-Checker_ repository is a specialized Java-based web utility designed t
 Federal Information Processing Standards (FIPS 140-2) are US government security standards that specify the security requirements for cryptographic modules.
 Organizations handling sensitive or government data must ensure their environments run in compliance with these standards.
 Enabling FIPS mode on an application server - such as Oracle WebLogic - involves configuring specific cryptographic providers like RSA JCE and RSA JSSE.
-Because these configurations are complex, the fips-checker application functions as a diagnostic tool to easily check, confirm, and audit whether the server's runtime environment is successfully operating in FIPS mode.
+Because these configurations are complex, the _FIPS-Checker_ application functions as a diagnostic tool to easily check, confirm, and audit whether the server's runtime environment is successfully operating in FIPS mode.
 
 
 ### 2. Technical Stack
